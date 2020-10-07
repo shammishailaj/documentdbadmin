@@ -28,4 +28,4 @@ Use the `sample.toml` as an example for how to configure the databases. The `lab
 ## Running
 Just run the binary and pass the relative path to your config file as the only argument.
 
-`./mongoadmin sample.toml`
+`./documentdbadmin sample.toml`
